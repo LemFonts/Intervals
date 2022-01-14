@@ -1,6 +1,8 @@
 # Intervals
 ## Designed by [H. Phuong Nguyen](https://www.instagram.com/duo.xyz/)
 
+![Intervals sample](https://lemfont.xyz/wp-content/uploads/2021/12/LEM-Intervals-02-2048x1365.png)
+
 Intervals is heavily inspired by the retro-futuristic aesthetics and the idea of space and robots in Lem’s time. On the path to transform from a geometric font to a bitmap font, the variable font discovers many letterforms of unique energy.
 
 ### Defekt details
